@@ -4,6 +4,8 @@
 
 [미프 주제 발표 slide](https://docs.google.com/presentation/d/18V0SzhnqOE_De9FI_B9nDfhMNS9ltK1Q0y99i365YB8/edit?usp=sharing), [미프 레퍼런스 발표 slide](https://docs.google.com/presentation/d/1-PwFT0gyB2VQe1zF-5PO5_CS1Fs2thCi_wN_mVe7DlQ/edit?usp=sharing), [미프 최종 발표 slide](https://docs.google.com/presentation/d/1Je0gZoVoJg_jfzlkGFBt6NmmZClLhKxyK2kHBd4dJfk/edit?usp=drive_link)
 
+[imtoys 실행파일](https://drive.google.com/drive/folders/1g-RGV_7p27GIyStNOUsSuQB-mYXYx5Ha?usp=sharing)
+
 [소공 중간 발표 pdf](storage/소공%20중간발표.pdf)
 
 
