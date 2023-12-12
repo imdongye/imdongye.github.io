@@ -6,6 +6,6 @@
 
 [imtoys 실행파일](https://drive.google.com/drive/folders/1g-RGV_7p27GIyStNOUsSuQB-mYXYx5Ha?usp=sharing)
 
-[소공 중간 발표 pdf](storage/소공%20중간발표.pdf) [소공 최종 발표 pdf](storage/sogong_final.pdf) [소공 시연 영상]([storage/sogong.mov](https://drive.google.com/file/d/1177-bvwlQPil9n65TBvNjfo5CH6L7PkG/view?usp=sharing)https://drive.google.com/file/d/1177-bvwlQPil9n65TBvNjfo5CH6L7PkG/view?usp=sharing)
+[소공 중간 발표 pdf](storage/소공%20중간발표.pdf) [소공 최종 발표 pdf](storage/sogong_final.pdf) [소공 시연 영상]([storage/sogong.mov](https://drive.google.com/file/d/1177-bvwlQPil9n65TBvNjfo5CH6L7PkG/view?usp=sharing)
 
 
