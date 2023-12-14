@@ -9,3 +9,4 @@
 [소공 중간 발표 pdf](storage/소공%20중간발표.pdf) [소공 최종 발표 pdf](storage/sogong_final.pdf) [소공 시연 영상](https://drive.google.com/file/d/1177-bvwlQPil9n65TBvNjfo5CH6L7PkG/view?usp=sharing)
 
 
+[개인 사이트](http://imdongye.duckdns.org/)
